@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dimitrios 👋
 
-<!--
-**Gt0s/Gt0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Computer Engineering student  
+💻 Interested in technology, problem-solving, and software applications  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java (basic)
+- Networking fundamentals
+- Databases
+- Problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Movie Management Application (Java, JavaFX)
+
+## 📫 Contact
+- Email: jimgtos@gmail.com
