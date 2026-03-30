@@ -6,8 +6,9 @@
 ## 🚀 Skills
 - Java (basic)
 - Networking fundamentals
-- Databases
+- Databases SQL(Basic)
 - Problem-solving
+- Python (Basic)
 
 ## 📌 Projects
 - Movie Management Application (Java, JavaFX)
