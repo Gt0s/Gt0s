@@ -25,5 +25,5 @@
 
 ### 📫 Let's connect
 
-- 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: www.linkedin.com/in/jim-gtos
+- 📧 Email: jimgtos@gmail.com
