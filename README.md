@@ -26,4 +26,4 @@
 ### 📫 Let's connect
 
 - 💼 LinkedIn: www.linkedin.com/in/jim-gtos
-- 📧 Email: jimgtos@gmail.com
+- 📧 Email: jimgian200@gmail.com
